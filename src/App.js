@@ -1,5 +1,6 @@
 import React from 'react';
-import { Greetings } from './features/counter/Greeting';
+import Greetings from './features/greeting/Greeting';
+
 function App() {
   return (
     <div className="App">
